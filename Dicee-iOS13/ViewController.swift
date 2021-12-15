@@ -22,9 +22,14 @@ class ViewController: UIViewController {
         diceImageView2.image = UIImage(named: "DiceTwo")
         
         //サイコロの画像の透明度を変更する
-        diceImageView1.alpha = 0.5
+        //diceImageView1.alpha = 0.5
     }
 
-
+    @IBAction func rollButtonPressed(_ sender: UIButton) {
+        //print("roll Button tapped!")
+        diceImageView1.image = UIImage(named: "DiceFour")
+        diceImageView2.image = UIImage(named: "DiceFour")
+    }
+    
 }
 

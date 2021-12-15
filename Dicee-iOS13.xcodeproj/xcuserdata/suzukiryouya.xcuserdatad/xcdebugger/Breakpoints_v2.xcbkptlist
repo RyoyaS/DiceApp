@@ -18,6 +18,83 @@
             endingLineNumber = "11"
             landmarkName = "ViewController"
             landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "42840C1B-D8B5-4BB4-AF3F-B1D0B7EC31A6 - 9868fc0b91fc6e6a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dicee_iOS13.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Dicee_iOS13.ViewController"
+                  moduleName = "Dicee-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suzukiryouya/Google%20%E3%83%88%E3%82%99%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99/Dev_iosApp/Dicee-iOS13/Dicee-iOS13/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "42840C1B-D8B5-4BB4-AF3F-B1D0B7EC31A6 - 702091257ddb1985"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dicee_iOS13.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Dicee_iOS13.ViewController"
+                  moduleName = "Dicee-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suzukiryouya/Google%20%E3%83%88%E3%82%99%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99/Dev_iosApp/Dicee-iOS13/Dicee-iOS13/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "42840C1B-D8B5-4BB4-AF3F-B1D0B7EC31A6 - 706a44768467c8b5"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dicee_iOS13.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Dicee_iOS13.ViewController&gt;"
+                  moduleName = "Dicee-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suzukiryouya/Google%20%E3%83%88%E3%82%99%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99/Dev_iosApp/Dicee-iOS13/Dicee-iOS13/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "42840C1B-D8B5-4BB4-AF3F-B1D0B7EC31A6 - d7e8fd62e0b64cfc"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dicee_iOS13.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Dicee_iOS13.ViewController&gt;"
+                  moduleName = "Dicee-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suzukiryouya/Google%20%E3%83%88%E3%82%99%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99/Dev_iosApp/Dicee-iOS13/Dicee-iOS13/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "42840C1B-D8B5-4BB4-AF3F-B1D0B7EC31A6 - fc12fc05e6b20386"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dicee_iOS13.ViewController.__deallocating_deinit"
+                  moduleName = "Dicee-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suzukiryouya/Google%20%E3%83%88%E3%82%99%E3%83%A9%E3%82%A4%E3%83%95%E3%82%99/Dev_iosApp/Dicee-iOS13/Dicee-iOS13/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
