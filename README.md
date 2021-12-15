@@ -1,3 +1,5 @@
+For Studying Swift and Storyboard
+
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Dicee
