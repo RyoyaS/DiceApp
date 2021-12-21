@@ -13,22 +13,19 @@ class ViewController: UIViewController {
     @IBOutlet weak var diceImageView1: UIImageView!
     @IBOutlet weak var diceImageView2: UIImageView!
     
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        
-        //Who.What = Valueで要素に変更を加えることができる
-        //サイコロの画像を変更する
-        diceImageView1.image = UIImage(named: "DiceSix")
-        diceImageView2.image = UIImage(named: "DiceTwo")
-        
-        //サイコロの画像の透明度を変更する
-        //diceImageView1.alpha = 0.5
-    }
 
     @IBAction func rollButtonPressed(_ sender: UIButton) {
-        //print("roll Button tapped!")
-        diceImageView1.image = UIImage(named: "DiceFour")
-        diceImageView2.image = UIImage(named: "DiceFour")
+        
+        //サイコロ配列
+        let diceArray = ["DiceOne","DiceTwo","DiceThree","DiceFour","DiceFive","DiceSix"]
+        
+        print("roll Button tapped!")
+        //配列の中からランダムな値を取る
+        diceImageView1.image=UIImage(named: diceArray.randomElement()!)
+        
+        //random関数で0から5までの乱数を生成してランダムに画像を取得する
+        diceImageView2.image=UIImage(named: diceArray[Int.random(in: 0...5)])
+        
     }
     
 }
